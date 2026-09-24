@@ -1,0 +1,44 @@
+;DIO INVEST;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;;;
+;Variáveis globais;;
+;CONFIGURAÇOES;;
+;Salário;;R$ 5.000,00
+;Rendimento Carteira;;0,90%
+;Sugestão de investimento (30%);;R$ 1.500,00
+;;;
+;Simulador de patrimônio;;
+;INVESTIMENTO MENSAL;;
+;Quanto investir por mês?;;R$ 500,00
+;Por quantos anos?;;5
+;Qual a taxa de rendimento mensal?;;1,08%
+;Qual o patrimônio total?;;R$ 41.888,46
+;Quanto é o dividendo mensal? (renda passiva);;R$ 377,00
+;;;
+;Simulador de cenários;;
+;CENÁRIOS;;Dividendo
+2;Quanto em 2 anos?;R$ 13.613,81;R$ 122,52
+5;Quanto em 5 anos?;R$ 41.888,46;R$ 377,00
+10;Quanto em 10 anos?;R$ 121.642,11;R$ 1.094,78
+20;Quanto em 20 anos?;R$ 562.599,20;R$ 5.063,39
+30;Quanto em 30 anos?;R$ 2.161.084,83;R$ 19.449,76
+;;;
+;Tipos de fundo;;
+;PERFIL;Moderado;
+;Valor a ser investido por mês;R$ 500,00;
+;;;
+;TIPO DE FI;Percentual Sugerido;Valores
+;PAPEL;32%;R$ 160,00
+;TIJOLO;35%;R$ 175,00
+;HÍBRIDOS;8%;R$ 40,00
+;FOFs;5%;R$ 25,00
+;DESENVOLVIMENTO;10%;R$ 50,00
+;HOTELARIAS;10%;R$ 50,00
+;;;R$ 500,00
