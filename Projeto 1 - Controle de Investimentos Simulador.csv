@@ -8,22 +8,22 @@
 ;;;
 ;;;
 ;;;
-;Vari·veis globais;;
-;CONFIGURA«OES;;
-;Sal·rio;;R$ 5.000,00
+;Vari√°veis globais;;
+;CONFIGURA√áOES;;
+;Sal√°rio;;R$ 5.000,00
 ;Rendimento Carteira;;0,90%
-;Sugest„o de investimento (30%);;R$ 1.500,00
+;Sugest√£o de investimento (30%);;R$ 1.500,00
 ;;;
-;Simulador de patrimÙnio;;
+;Simulador de patrim√¥nio;;
 ;INVESTIMENTO MENSAL;;
-;Quanto investir por mÍs?;;R$ 500,00
+;Quanto investir por m√™s?;;R$ 500,00
 ;Por quantos anos?;;5
 ;Qual a taxa de rendimento mensal?;;1,08%
-;Qual o patrimÙnio total?;;R$ 41.888,46
-;Quanto È o dividendo mensal? (renda passiva);;R$ 377,00
+;Qual o patrim√¥nio total?;;R$ 41.888,46
+;Quanto √© o dividendo mensal? (renda passiva);;R$ 377,00
 ;;;
-;Simulador de cen·rios;;
-;CEN¡RIOS;;Dividendo
+;Simulador de cen√°rios;;
+;CEN√ÅRIOS;;Dividendo
 2;Quanto em 2 anos?;R$ 13.613,81;R$ 122,52
 5;Quanto em 5 anos?;R$ 41.888,46;R$ 377,00
 10;Quanto em 10 anos?;R$ 121.642,11;R$ 1.094,78
@@ -32,12 +32,12 @@
 ;;;
 ;Tipos de fundo;;
 ;PERFIL;Moderado;
-;Valor a ser investido por mÍs;R$ 500,00;
+;Valor a ser investido por m√™s;R$ 500,00;
 ;;;
 ;TIPO DE FI;Percentual Sugerido;Valores
 ;PAPEL;32%;R$ 160,00
 ;TIJOLO;35%;R$ 175,00
-;HÕBRIDOS;8%;R$ 40,00
+;H√çBRIDOS;8%;R$ 40,00
 ;FOFs;5%;R$ 25,00
 ;DESENVOLVIMENTO;10%;R$ 50,00
 ;HOTELARIAS;10%;R$ 50,00
